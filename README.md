@@ -23,7 +23,7 @@ Zehra'nın Mutfağı, Python programlama dili ve Tkinter/CustomTkinter kütüpha
     * Güvenli kullanıcı yönetimi ile sisteme erişimi kontrol altına alır.
     * Kullanıcılar, kendi hesaplarını oluşturabilir ve geçerli kimlik bilgileriyle sisteme giriş yapabilir.
 
-    <img src="ss/Ekran Resmi 2025-05-17 13.19.53.png" alt="Giriş Ekranı" width="400">
+    <img src="[ss/Ekran Resmi 2025-05-17 13.19.53.png](https://github.com/skkzehra/zehra-s-kitchen-app/blob/main/yemek_tarifi/ss/Ekran%20Resmi%202025-05-17%2013.19.53.png)" alt="Giriş Ekranı" width="400">
 
 * **📄 Tarif Ekleme:**
     * Kullanıcılar, yeni yemek tarifleri ekleyebilirler.
@@ -32,22 +32,22 @@ Zehra'nın Mutfağı, Python programlama dili ve Tkinter/CustomTkinter kütüpha
 * **🔍 Tarif Arama:**
     * Kullanıcılar, tarif adına göre arama yaparak istedikleri tariflere kolayca ulaşabilirler.
 
-    <img src="ss/Ekran Resmi 2025-05-17 13.37.15.png" alt="Tarif Arama Ekranı" width="400">
+    <img src="https://github.com/skkzehra/zehra-s-kitchen-app/blob/main/yemek_tarifi/ss/Ekran%20Resmi%202025-05-17%2013.37.15.png" alt="Tarif Arama Ekranı" width="400">
 
 * **⭐ Tarif Değerlendirme:**
     * Kullanıcılar, tarifleri 1-5 arasında puanlayabilirler.
 
-    <img src="ss/Ekran Resmi 2025-05-17 13.24.20.png" alt="Tarif Değerlendirme Ekranı" width="400">
+    <img src="https://github.com/skkzehra/zehra-s-kitchen-app/blob/main/yemek_tarifi/ss/Ekran%20Resmi%202025-05-17%2013.24.20.png" alt="Tarif Değerlendirme Ekranı" width="400">
 
 * **📝 Malzeme Listesi Görüntüleme:**
     * Kullanıcılar, bir tarifin malzeme listesini görüntüleyebilirler.
 
-    <img src="ss/Ekran Resmi 2025-05-17 13.25.07.png" alt="Malzeme Listesi Ekranı" width="400">
+    <img src="https://github.com/skkzehra/zehra-s-kitchen-app/blob/main/yemek_tarifi/ss/Ekran%20Resmi%202025-05-17%2013.25.07.png" alt="Malzeme Listesi Ekranı" width="400">
 
 * **🧑‍🍳 Kullanıcı Profili:**
     * Kullanıcılar, kendi profillerini görüntüleyebilir ve kaydettikleri tarifleri listeleyebilirler.
 
-    <img src="ss/Ekran Resmi 2025-05-17 13.25.43.png" alt="Kullanıcı Profili Ekranı" width="400">
+    <img src="https://github.com/skkzehra/zehra-s-kitchen-app/blob/main/yemek_tarifi/ss/Ekran%20Resmi%202025-05-17%2013.25.43.png" alt="Kullanıcı Profili Ekranı" width="400">
 
 * **❓ Yardım ve Hakkında:**
     * Uygulama kullanımı hakkında bilgiler ve uygulama hakkında detaylar sunulur.
@@ -58,7 +58,7 @@ Zehra'nın Mutfağı, Python programlama dili ve Tkinter/CustomTkinter kütüpha
 * **🏠 Ana Ekran:**
     * Uygulamanın temel işlevlerine kolay erişim sağlayan merkezi bir ekran.
 
-    <img src="ss/Ekran Resmi 2025-05-17 13.21.48.jpg" alt="Ana Ekran" width="400">
+    <img src="(https://github.com/skkzehra/zehra-s-kitchen-app/blob/main/yemek_tarifi/ss/Ekran%20Resmi%202025-05-17%2013.21.48.png)" alt="Ana Ekran" width="400">
 
 ## 🗄️ Veritabanı Yapısı
 
