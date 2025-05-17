@@ -23,7 +23,7 @@ Zehra'nın Mutfağı, Python programlama dili ve Tkinter/CustomTkinter kütüpha
     * Güvenli kullanıcı yönetimi ile sisteme erişimi kontrol altına alır.
     * Kullanıcılar, kendi hesaplarını oluşturabilir ve geçerli kimlik bilgileriyle sisteme giriş yapabilir.
 
-    <img src="(https://github.com/skkzehra/zehra-s-kitchen-app/blob/main/yemek_tarifi/ss/Ekran%20Resmi%202025-05-17%2013.19.53.png)" alt="Giriş Ekranı" width="400">
+    <img src="https://github.com/skkzehra/zehra-s-kitchen-app/blob/main/yemek_tarifi/ss/Ekran%20Resmi%202025-05-17%2013.19.53.png" alt="Giriş Ekranı" width="400">
 
 * **📄 Tarif Ekleme:**
     * Kullanıcılar, yeni yemek tarifleri ekleyebilirler.
@@ -58,7 +58,7 @@ Zehra'nın Mutfağı, Python programlama dili ve Tkinter/CustomTkinter kütüpha
 * **🏠 Ana Ekran:**
     * Uygulamanın temel işlevlerine kolay erişim sağlayan merkezi bir ekran.
 
-    <img src="(https://github.com/skkzehra/zehra-s-kitchen-app/blob/main/yemek_tarifi/ss/Ekran%20Resmi%202025-05-17%2013.21.48.png)" alt="Ana Ekran" width="400">
+    <img src="https://github.com/skkzehra/zehra-s-kitchen-app/blob/main/yemek_tarifi/ss/Ekran%20Resmi%202025-05-17%2013.21.48.png" alt="Ana Ekran" width="400">
 
 ## 🗄️ Veritabanı Yapısı
 
