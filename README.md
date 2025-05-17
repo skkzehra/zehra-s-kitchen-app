@@ -80,10 +80,10 @@ Uygulama, verileri düzenli ve verimli bir şekilde saklamak için aşağıdaki 
 3.  Uygulamayı çalıştırın:
 
     ```bash
-    python denme.py # veya uygulamanızın adı
+    python zehranin_mutfagi.py # veya uygulamanızın adı
     ```
 
-## 🧑‍💻 Geliştiri
+## 🧑‍💻 Geliştirici
 
 \[Zehra Işık]
 
